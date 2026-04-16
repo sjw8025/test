@@ -1,0 +1,9 @@
+total 41
+-rw-r--r-- 1 kangj 197609 35823 Apr 16 10:33 LICENSE
+-rw-r--r-- 1 kangj 197609   180 Apr 16 10:44 README.md
+-rw-r--r-- 1 kangj 197609    73 Apr 16 10:33 assigment.txt
+-rw-r--r-- 1 kangj 197609    89 Apr 16 10:33 assigment2.txt
+-rw-r--r-- 1 kangj 197609    72 Apr 16 11:06 new.txt
+drwxr-xr-x 1 kangj 197609     0 Apr 16 10:33 simson/
+-rw-r--r-- 1 kangj 197609    58 Apr 16 10:33 test.txt
+-rw-r--r-- 1 kangj 197609     0 Apr 16 11:11 work.txt
