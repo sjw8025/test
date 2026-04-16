@@ -6,3 +6,5 @@
 4월 9일 assigment1 올림.
 
 4월 9일 assigemnt2 올림.
+
+4월 9일 SIMSON 파일 올림.
